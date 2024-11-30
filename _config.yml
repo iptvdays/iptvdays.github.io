@@ -13,11 +13,11 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: huxpro
-zhihu_username: huxpro
+weibo_username: iptvdays
+zhihu_username: iptvdays
 github_username: iptvdays
 twitter_username: kissme_notalk
-#facebook_username:  huxpro
+#facebook_username:  iptvdays
 #linkedin_username:  firstname-lastname-idxxxx
 
 # Build settings
